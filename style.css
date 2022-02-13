@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: hsl(270, 60%, 92%);
+    height:500px;
+    
+}
+.box1{
+    background-color:white;
+    border: solid 1px #706666;
+    height: 300px;
+    width:320px;
+    padding: 20px;
+    margin:auto;
+}
+.xyz{
+   font-size: x-large;
+
+}
